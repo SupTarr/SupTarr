@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SupTarr
 - 👀 I’m interested in problem solving and programming
-- 🌱 I’m currently learning C, C++, HTML, CSS, Git, JavaScript
-- 💞️ I’m looking to collaborate on Generation Thailand
+- 🌱 I’m currently learning C, C++, Python, HTML, CSS, Git, JavaScript
+- 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer.
 - 📫 How to reach me tatasuppakrit@gmail.com
 
 <!---
