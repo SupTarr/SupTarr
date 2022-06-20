@@ -5,6 +5,7 @@
 - 📫 How to reach me tatasuppakrit@gmail.com
 
 CodeAcademy Certificates
+- Skill Path: Build a Website with HTML, CSS, and Github Pages
 - Course Learn Bootstrap
 - Course Learn CSS
 - Course Learn HTML
