@@ -6,6 +6,7 @@
 
 CodeAcademy Certificates
 - Skill Path: Build a Website with HTML, CSS, and Github Pages
+- Course Learn JavaScript
 - Course Learn Bootstrap
 - Course Learn CSS
 - Course Learn HTML
