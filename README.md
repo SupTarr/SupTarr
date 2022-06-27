@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @SupTarr
 - 👀 I’m interested in problem solving and programming
-- 🌱 I’m currently learning C, Python, HTML, CSS, Bootstrap, Git, GitHub, JavaScript
+- 🌱 I’m currently learning C, Python, HTML, CSS, Bootstrap, Figma, Git, GitHub, JavaScript
 - 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer.
 - 📫 How to reach me tatasuppakrit@gmail.com
 
 CodeAcademy Certificates
 - Skill Path: Build a Website with HTML, CSS, and Github Pages
+- Course Introduction to UI and UX Design
 - Course Learn JavaScript
 - Course Learn Bootstrap
 - Course Learn CSS
