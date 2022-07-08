@@ -8,6 +8,7 @@ CodeAcademy Certificates
 - Skill Path: Build a Website with HTML, CSS, and Github Pages
 - Course How to Debug JavaScript Errors
 - Course Learn Asynchronous JavaScript
+- Course Learn Intermediate JavaScript
 - Course Learn JavaScript
 - Course Introduction to UI and UX Design
 - Course Learn Bootstrap
