@@ -7,7 +7,6 @@
 CodeAcademy Certificates
 - Skill Path: Create a Front-End App with React
 - Skill Path: Build a Website with HTML, CSS, and Github Pages
-
 - Course Learn React
 - Course How to Debug JavaScript Errors
 - Course Learn Asynchronous JavaScript
