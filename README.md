@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @SupTarr
-- 👀 I’m interested in problem solving and programming
-- 🌱 I’m currently learning C, Python, HTML, CSS, Bootstrap, Figma, Git, GitHub, JavaScript
-- 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer.
-- 📫 How to reach me tatasuppakrit@gmail.com
-
+<div>
+  <h1>Hi there, I'm Tata</h1>  
+  ![Wave](https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif)
+  - 👋 Hi, I’m @SupTarr
+  - 👀 I’m interested in problem solving and programming
+  - 🌱 I’m currently learning C, Python, HTML, CSS, Bootstrap, Figma, Git, GitHub, JavaScript
+  - 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer.
+  - 📫 How to reach me tatasuppakrit@gmail.com
+</div>
+<br/>
 <div id="badges" align="center">
-  <h1>Contact</h1>
+  <h2>Contact:</h2>
   <a href="mailto:tatasuppakrit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,9 +23,9 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
 </div>
-
+<br/>
 <div align="center">
-  <h1>Tech Stack</h1>
+  <h2>Languages and Tools:</h2>
 </div>
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -39,10 +43,12 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
+<br/>
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue)
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&theme=blue)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&theme=blue)
 
+<br/>
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=jDzd58fiWGI
 " target="_blank"><img src="https://img.youtube.com/vi/jDzd58fiWGI/hqdefault.jpg" 
 alt="Introduce Video" width="240" height="180" border="10" /></a>
