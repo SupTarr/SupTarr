@@ -3,8 +3,8 @@
   <ul>
     <li> 👋 Hi, I’m Supakrit Chuchatwannakul </li>
     <li> 👀 I’m interested in problem solving and programming. </li>
-    <li> 🌱 I’m currently learning C, Python, HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, NodeJS, Express, MongoDB, Figma, Git, GitHub,  </li>
-    <li> 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer. </li>
+    <li> 🌱 I have learned C, Python, HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, NodeJS, Express, MongoDB, Figma, Git, GitHub,  </li>
+    <li> 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer Bootcamp Learner. </li>
     <li> 📫 How to reach me tatasuppakrit@gmail.com </li>
   </ul>
 </div>
