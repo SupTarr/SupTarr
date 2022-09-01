@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  
 </div>
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue)
 ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&theme=blue)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SupTarr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=jDzd58fiWGI
 " target="_blank"><img src="https://img.youtube.com/vi/jDzd58fiWGI/hqdefault.jpg" 
