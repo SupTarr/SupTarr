@@ -46,7 +46,7 @@
 </div>
 <br/>
 
-<div align="center">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue" alt="GitHubStreak"/>
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&theme=blue" alt="GitHubTopLanguages"/>
+<div align="center" style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue" alt="GitHubStreak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&theme=blue" alt="GitHubTopLanguages"/>
 </div>
