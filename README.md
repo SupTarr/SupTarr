@@ -34,3 +34,7 @@
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue)
 ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&theme=blue)
+
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=jDzd58fiWGI
+" target="_blank"><img src="https://img.youtube.com/vi/jDzd58fiWGI/hqdefault.jpg" 
+alt="Introduce Video" width="240" height="180" border="10" /></a>
