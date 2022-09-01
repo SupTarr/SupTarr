@@ -8,7 +8,7 @@
     <li> 📫 How to reach me tatasuppakrit@gmail.com </li>
   </ul>
 </div>
-<br/>
+
 <div id="badges" align="center">
   <h2>Contact:</h2>
   <a href="mailto:tatasuppakrit@gmail.com">
