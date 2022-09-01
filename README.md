@@ -8,6 +8,10 @@
   <a href="mailto:tatasuppakrit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://portfoliosupakrit.surge.sh/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/supakrit-chuchatwannakul/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/channel/UCEAM6zV5o1IaSaY3voEnHuQ">
