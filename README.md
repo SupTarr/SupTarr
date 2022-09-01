@@ -1,9 +1,9 @@
 <div>
   <h1>Hi there, I'm Tata <span><img style="height: 40px;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="Wave"/></span></h1>  
   <ul>
-    <li> 👋 Hi, I’m @SupTarr </li>
-    <li> 👀 I’m interested in problem solving and programming </li>
-    <li> 🌱 I’m currently learning C, Python, HTML, CSS, Bootstrap, Figma, Git, GitHub, JavaScript </li>
+    <li> 👋 Hi, I’m Supakrit Chuchatwannakul </li>
+    <li> 👀 I’m interested in problem solving and programming. </li>
+    <li> 🌱 I’m currently learning C, Python, HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React, NodeJS, Express, MongoDB, Figma, Git, GitHub,  </li>
     <li> 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer. </li>
     <li> 📫 How to reach me tatasuppakrit@gmail.com </li>
   </ul>
