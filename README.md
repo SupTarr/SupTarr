@@ -5,6 +5,7 @@
 - 📫 How to reach me tatasuppakrit@gmail.com
 
 <div id="badges" align="center">
+  <h1>Contact</h1>
   <a href="mailto:tatasuppakrit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -20,6 +21,7 @@
 </div>
 
 <div>
+  <h1>Tech Stack</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
