@@ -4,23 +4,11 @@
 - 💞️ I’m looking to collaborate on Generation Thailand for being Full Stack Developer.
 - 📫 How to reach me tatasuppakrit@gmail.com
 
-CodeAcademy Certificates
-- Skill Path: Create a Front-End App with React
-- Skill Path: Build a Website with HTML, CSS, and Github Pages
-- Course Learn React
-- Course How to Debug JavaScript Errors
-- Course Learn Asynchronous JavaScript
-- Course Learn Intermediate JavaScript
-- Course Learn JavaScript
-- Course Introduction to UI and UX Design
-- Course Learn Bootstrap
-- Course Learn CSS
-- Course Learn HTML
-- Course Learn Bash Scripting
-- Course Learn the Command Line
-- Course Learn C
-
-<!---
-SupTarr/SupTarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/supakrit-chuchatwannakul/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCEAM6zV5o1IaSaY3voEnHuQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+</div>
