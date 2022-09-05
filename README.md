@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi there, I'm Tata <span><img style="height: 40px;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="Wave"/></span></h1>  
+  <h1>Hi there, I'm Tata <span><img style="height: 40px; width: 40px;" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="Wave"/></span></h1>  
   <ul>
     <li> 👋 Hi, I’m Supakrit Chuchatwannakul </li>
     <li> 👀 I’m interested in problem solving and programming. </li>
