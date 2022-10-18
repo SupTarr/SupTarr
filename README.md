@@ -46,7 +46,7 @@
 </div>
 <br/>
 
-<div align="center" style="display: flex;">
+<div align="center" style="display: flex; flex-dirextion: row">
   <img src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue" alt="GitHubStreak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&layout=compact" alt="Top Langs"/>
 </div>
