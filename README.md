@@ -48,6 +48,6 @@
 <br/>
 
 <div align="center" style="display: flex; flex-dirextion: row">
-  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue&show_icons=true" alt="GitHubStreak"/>
-  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&langs_count=10&layout=compact" alt="Top Langs"/>
+  <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue&show_icons=true" alt="GitHubStreak"/>
+  <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&langs_count=10&layout=compact" alt="Top Langs"/>
 </div>
