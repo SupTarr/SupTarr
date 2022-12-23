@@ -25,24 +25,39 @@
   </a>
 </div>
 <br/>
+
 <div align="center">
-  <h2>Languages and Tools:</h2>
+  <h2>Programming Languages</h2>
 </div>
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/ReScript-FFF?style=for-the-badge&logo=rescript" alt="ReScript"/>
   <img src="https://img.shields.io/badge/ReasonML-FFF?style=for-the-badge&logo=reasonml" alt="ReasonML"/>
   <img src="https://img.shields.io/badge/OCaml-FFF?style=for-the-badge&logo=OCaml" alt="OCaml"/>
+</div>
+<br/>
+
+<div align="center">
+  <h2>Web Development</h2>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
+</div>
+<br/>
+
+<div align="center">
+  <h2>Tools</h2>
+</div>
+<div>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -52,7 +67,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </div>
 <br/>
-
+  
 <div align="center" style="display: flex; flex-direction: column;">
   <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue&show_icons=true" alt="GitHubStreak"/>
   <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&langs_count=10&layout=compact&hide=jupyter%20notebook" alt="Top Langs"/>
