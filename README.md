@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/ReScript-FFF?style=for-the-badge&logo=rescript" alt="ReScript"/>
-  <img src="https://img.shields.io/badge/ReasonML-FFF?style=for-the-badge&logo=rescript" alt="ReasonML"/>
-  <img src="https://img.shields.io/badge/OCaml-FFF?style=for-the-badge&logo=rescript" alt="OCaml"/>
+  <img src="https://img.shields.io/badge/ReasonML-FFF?style=for-the-badge&logo=reasonml" alt="ReasonML"/>
+  <img src="https://img.shields.io/badge/OCaml-FFF?style=for-the-badge&logo=OCaml" alt="OCaml"/>
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
