@@ -49,5 +49,5 @@
 
 <div align="center" style="display: flex; flex-direction: column;">
   <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api?username=SupTarr&theme=blue&show_icons=true" alt="GitHubStreak"/>
-  <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&langs_count=10&exclude_repo=learnNumPy,learnPython&layout=compact&hide=jupyter_notebook" alt="Top Langs"/>
+  <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupTarr&langs_count=10&layout=compact&hide=jupyter%20notebook" alt="Top Langs"/>
 </div>
