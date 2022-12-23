@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/ReScript-FFF?style=for-the-badge&logo=rescript" alt="ReScript"/>
-  <img src="https://img.shields.io/badge/ReasonML-FFF?style=for-the-badge&logo=reasonml" alt="ReasonML"/>
+  <img src="https://img.shields.io/badge/ReasonML-FFF?style=for-the-badge&logo=reason" alt="ReasonML"/>
   <img src="https://img.shields.io/badge/OCaml-FFF?style=for-the-badge&logo=OCaml" alt="OCaml"/>
 </div>
 <br/>
@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 <br/>
 
@@ -58,8 +60,6 @@
   <h2>Tools</h2>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
